@@ -1,6 +1,7 @@
 @import url(/css/global/global.css);
 @import url(/css/global/header.css);
 @import url(/css/global/footer.css);
+@import url(/css/utilidades/formulario.css);
 
 /* utilidades */
 @import url(/css/utilidades/componentes.css);
@@ -23,3 +24,11 @@
 @import url(/css/termos/termos.css);
 
 @import url(/css/bicicletas/bicicletas.css);
+
+/*bicicleta*/
+@import url(../bicicletas/bicicleta.css);
+@import url(/bicicletas/seguro.css);
+
+/*contato*/
+@import url(/css/contato/contatos.css);
+@import url(/css/contato/lojas.css);
